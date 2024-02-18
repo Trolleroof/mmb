@@ -11,7 +11,7 @@ struct HomePageView: View {
                     .frame(width: 100, height: 100)
                     .foregroundColor(.blue)
                 
-                Text("Welcome to ArguMentor")
+                Text("ArguMentor")
                     .font(.largeTitle)
                     .bold()
                     .padding()
